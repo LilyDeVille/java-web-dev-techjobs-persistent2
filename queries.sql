@@ -1,16 +1,11 @@
 ## Part 1: Test it with SQL
-Columns/Data Type
-id/integer
-employer/varchar
-name/varchar
-skill/varchar
-## Part 2: Test it with SQL
+DESC job;
 
+## Part 2: Test it with SQL
 
 SELECT name
 FROM employer
 WHERE (location = 'St. Louis')
-
 
 ## Part 3: Test it with SQL
 
